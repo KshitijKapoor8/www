@@ -1,6 +1,6 @@
 baseURL = 'https://kkap.dev/'
 languageCode = 'en-us'
-title = 'Kshitij'
+title = 'Home'
 theme = 'papermod'
 
 [caches]
